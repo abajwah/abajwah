@@ -5,6 +5,4 @@ I'm an undergraduate Computer Science student interested in cloud computing, com
 
 * 🌍  I'm based in College Park, MD
 * 📫  You can contact me at [abajwah1@terpmail.umd.edu](mailto:abajwah1@terpmail.umd.edu)
-* 🌱 I’m currently learning lots about ML and algs
-* 🔭 I’m currently working on developing some cool apps to make transit on campus more efficient
 * ⚡ Fun fact: I drink matcha almost everyday 🍵
